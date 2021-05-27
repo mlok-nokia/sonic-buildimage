@@ -88,3 +88,6 @@
 [submodule "src/wpasupplicant/sonic-wpa-supplicant"]
 	path = src/wpasupplicant/sonic-wpa-supplicant
 	url = https://github.com/Azure/sonic-wpa-supplicant.git
+[submodule "platform/broadcom/sonic-platform-modules-nokia"]
+	path = platform/broadcom/sonic-platform-modules-nokia
+	url = https://github.com/nokia/sonic-platform.git
